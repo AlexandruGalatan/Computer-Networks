@@ -2,7 +2,7 @@
 ## DNS.py
 Programul DNS.py foloseşte CloudFlare.com pentru a afla adresa IP a unui site.
 
-![GitHub Logo](https://github.com/AlexandruGalatan/Computer-Networks/tree/master/Tema2/http/http1console.PNG)
+![](http/http1console.PNG)
 
 ## Cereri de tip **GET**
 
