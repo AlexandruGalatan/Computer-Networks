@@ -25,3 +25,15 @@ Programul DNS.py foloseşte CloudFlare.com pentru a afla adresa IP a unui site.
 ## Comunicare cu serverul de pe rt1 de la host
 ![](udp/udp7consoleclient.PNG)
 ![](udp/udp7consoleserver.PNG)
+
+# TCP:
+## Comunicare pe acelaşi container
+![](tcp/tcp1consoleclient.PNG)
+![](tcp/tcp1consoleserver.PNG)
+
+## Comunicare pe containere diferite
+![](tcp/tcp234consoleclient.PNG)
+![](tcp/tcp234consoleserver.PNG)
+
+## 3-way handshake
+![](tcp/tcp5console.PNG)
